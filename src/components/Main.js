@@ -102,7 +102,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="./public/Resume_HenryTao_2020.pdf"
+                href="./Resume_HenryTao_2020.pdf"
                 target = "_ " 
                 className="icon fa-twitter"
               >

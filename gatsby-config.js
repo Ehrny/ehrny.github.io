@@ -28,7 +28,7 @@ module.exports = {
     },
     'gatsby-plugin-react-helmet'
   ],
-  
-    pathPrefix: "/ehrny.github.io",
+
+  pathPrefix: "/ehrny.github.io"
 
 }
